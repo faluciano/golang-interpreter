@@ -50,3 +50,7 @@ add(1,2);
 - Abstract Syntax Tree
 - Internal Object System
 - Evaluator
+
+# High level representation of interpreter steps
+
+![Interpreter steps](images/source_code_tokens_ast.png)
